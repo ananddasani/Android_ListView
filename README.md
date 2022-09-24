@@ -1,6 +1,7 @@
 # Android_ListView
 Android App Using List View &amp; ArrayAdapter
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
 
 # Code
 
@@ -24,8 +25,6 @@ listView = findViewById(R.id.listView);
 
 # App Highlight
 
-<img src="app_images/List View Code.png" width="1000" /><br>
-
-<img src="app_images/List View App1.png" width="300" /><br>
-
-<img src="app_images/List View App2.png" width="300" /><br>
+![List View App1](https://user-images.githubusercontent.com/74413402/192095237-ff07102b-51c3-4232-b9b0-61623c653d65.png)
+![List View App2](https://user-images.githubusercontent.com/74413402/192095239-946bdee5-5f70-47d1-8989-2105441c9e9b.png)
+![List View Code](https://user-images.githubusercontent.com/74413402/192095240-4067e97a-1187-4c99-86a7-92566e8cc652.png)
